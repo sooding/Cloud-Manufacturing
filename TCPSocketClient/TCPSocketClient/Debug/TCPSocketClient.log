@@ -1,0 +1,32 @@
+﻿Build started 7/4/2012 1:17:12 PM.
+     1>Project "C:\Users\Ebot\Desktop\Dropbox\CloudManufacturing\TCPSocketClient\TCPSocketClient\TCPSocketClient.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\TCPSocketClient.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       CoreResGen:
+         "C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\NETFX 4.0 Tools\resgen.exe" /useSourcePath /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /compile FormTCPSocketClient.resx,Debug\TCPSocketClient.FormTCPSocketClient.resources
+         Processing resource file "FormTCPSocketClient.resx" into "Debug\TCPSocketClient.FormTCPSocketClient.resources".
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ebot\Desktop\Dropbox\CloudManufacturing\TCPSocketClient\Debug\TCPSocketClient.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\TCPSocketClient.FormTCPSocketClient.resources /MANIFEST /ManifestFile:"Debug\TCPSocketClient.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Ebot\Desktop\Dropbox\CloudManufacturing\TCPSocketClient\Debug\TCPSocketClient.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\stdafx.obj
+         Debug\TCPSocketClient.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         TCPSocketClient.vcxproj -> C:\Users\Ebot\Desktop\Dropbox\CloudManufacturing\TCPSocketClient\Debug\TCPSocketClient.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Ebot\Desktop\Dropbox\CloudManufacturing\TCPSocketClient\Debug\TCPSocketClient.exe;#1" /manifest Debug\TCPSocketClient.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\TCPSocketClient.unsuccessfulbuild".
+         Touching "Debug\TCPSocketClient.lastbuildstate".
+     1>Done Building Project "C:\Users\Ebot\Desktop\Dropbox\CloudManufacturing\TCPSocketClient\TCPSocketClient\TCPSocketClient.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.16

@@ -1,0 +1,25 @@
+﻿Build started 6/27/2012 10:29:57 AM.
+     1>Project "C:\Users\Ebot\Desktop\CloudManufacturing\TCPSocketClient\TCPSocketClient\TCPSocketClient.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\TCPSocketClient.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       CoreResGen:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         TCPSocketClient.vcxproj -> C:\Users\Ebot\Desktop\CloudManufacturing\TCPSocketClient\Release\TCPSocketClient.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\TCPSocketClient.unsuccessfulbuild".
+         Touching "Release\TCPSocketClient.lastbuildstate".
+     1>Done Building Project "C:\Users\Ebot\Desktop\CloudManufacturing\TCPSocketClient\TCPSocketClient\TCPSocketClient.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.65

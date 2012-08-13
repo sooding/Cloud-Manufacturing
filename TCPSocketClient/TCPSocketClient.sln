@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TCPSocketClient", "TCPSocketClient\TCPSocketClient.vcxproj", "{A903A88D-1492-4A7F-B8F1-EB0DD247F44F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Cloud Manufacturing", "Cloud Manufacturing\Cloud Manufacturing.vdproj", "{3AECAAB6-363B-4ED6-9345-48CE35BBB2D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A903A88D-1492-4A7F-B8F1-EB0DD247F44F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A903A88D-1492-4A7F-B8F1-EB0DD247F44F}.Debug|Win32.Build.0 = Debug|Win32
+		{A903A88D-1492-4A7F-B8F1-EB0DD247F44F}.Release|Win32.ActiveCfg = Release|Win32
+		{A903A88D-1492-4A7F-B8F1-EB0DD247F44F}.Release|Win32.Build.0 = Release|Win32
+		{3AECAAB6-363B-4ED6-9345-48CE35BBB2D3}.Debug|Win32.ActiveCfg = Debug
+		{3AECAAB6-363B-4ED6-9345-48CE35BBB2D3}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
